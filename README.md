@@ -15,7 +15,7 @@ Leagoo Z6 MM Device tree
 |  Android Version  | 6.0                  |
 |       Storage     | 8GB                  |
 |       Battery     | 2000 mAh Li-Ion      |
-|       Display     | 5" 854 x 480 px      |
+|       Display     | 4,97" 854 x 480 px      |
 |     Rear Camera   | 5MPx, Dual LED Flash |
 |   Frontal Camera  | 2MPx                 |
 | Dimensions (H/L/W)| 141 x 69 x 7 mm|
